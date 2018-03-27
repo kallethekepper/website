@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding= "UTF-8"?>
+<accounts>
+    <account>
+        <username>piglet</username>
+        <password>$2y$10$0PEI6LfKA7uPc.adpvnzDOts9ZDZLa3LT2Fva8o788QSptHwANbDG</password>
+    </account>
+    <account>
+        <username>dana</username>
+        <password>$2y$10$VCbnOrme1bIdjDeNfTPp2Oi/dZyE2oDUEfHjdo2d6I4R.N8Jj5hrK</password>
+    </account>
+</accounts>
