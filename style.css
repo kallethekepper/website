@@ -1,0 +1,116 @@
+
+#header{
+	height: 100px;
+}
+
+#content{
+	position: absolute;
+	padding: 5%;
+	background: white;
+	width: 60%;
+	left: 15%;
+	margin: 0%;
+	
+	
+}
+
+h1{
+	font-size: 200%;
+	padding: 10px;
+}
+
+h2{
+	font-size: 150%;
+	padding: 10px;
+}
+
+h3{
+		font-size: 120%;
+	}
+
+#menu{
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+#menu > li{
+	float: left;
+}
+
+#menu > li a{
+	display: block;
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+ li a:hover {
+    background-color: #111;
+}
+
+	
+
+table, td, th{
+	border: 1px solid black;
+	border-collapse: collapse;	
+}
+
+td{
+	
+	width: 120px;
+	height: 120px;
+	vertical-align: top;
+	text-align: left;
+}
+th{
+	width: 160px;
+	font-size: 25px;
+	font-weight:bold;
+}
+ body{
+	 margin: 0;
+	 background-image: url("pancakesBackground.jpg");
+	 background-size: cover;
+	 background-attachment: fixed;
+     background-position: center;
+     background-repeat: no-repeat;
+	 position:relative;
+	 font-family:  Arial, Helvetica, sansa-serif;
+	 font-size: 100%;
+	 
+ }
+ 
+ 
+ 
+#indexh1{
+	text-align: center;
+	font-size: 300%;
+} 
+ 
+ #indexh2{
+	 text-align: center;
+		font-size: 200%;
+ }
+ div.comment1{
+	background:#ccc;
+	padding: 20px;
+	
+ }
+ 
+.comment {
+    background: #ccc;
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+    position: relative;
+}
+
+.delete {
+position: absolute;
+right: 0px;
+bottom: 10px
+}
+
+ 
